@@ -61,7 +61,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-10-16T10:36:32</gco:DateTime>
+        <gco:DateTime>2017-10-16T11:11:32</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -94,7 +94,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Model for Ozone and Related chemical Tracers output</gco:CharacterString>
+                        <gco:CharacterString>Model for Ozone And Related chemical Tracers output (MOZART) </gco:CharacterString>
                     </gmd:title>
                     <gmd:alternateTitle>
                         <gco:CharacterString>MOZART-4 simulation results</gco:CharacterString>
