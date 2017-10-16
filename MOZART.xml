@@ -173,9 +173,9 @@
             <gmd:abstract>
                 <gco:CharacterString>Output from simulations of the Model for Ozone and Related chemical Tracers (MOZART-4), a global chemical transport model representing tropospheric chemistry, is available for use as boundary conditions in regional model simulations, and other scientific research.
            
-          Spatial resolution: 1.9 x 2.5 degrees.
+Spatial resolution: 1.9 x 2.5 degrees.
           
-          Vertical extent: Surface to 1 hPa with 56 levels.</gco:CharacterString>
+Vertical extent: Surface to 1 hPa with 56 levels.</gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode
