@@ -61,7 +61,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-10-16T13:51:33</gco:DateTime>
+        <gco:DateTime>2019-02-14T16:35:44</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -119,7 +119,7 @@
                                 <gco:CharacterString>Christine Weidinmyer</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>NCAR/CU/NOAA</gco:CharacterString>
+                                <gco:CharacterString>CU/CIRES</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:positionName gco:nilReason="missing"/>
                             <gmd:role>
@@ -154,6 +154,21 @@
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Christine Weidinmyer</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>CU/CIRES</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:positionName gco:nilReason="missing"/>
+                            <gmd:role>
+                                <gmd:CI_RoleCode
+                                    codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
@@ -169,7 +184,7 @@
                         <gco:CharacterString>Christine Weidinmyer</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>CU/CIRES/NOAA</gco:CharacterString>
+                        <gco:CharacterString>CU/CIRES</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:positionName gco:nilReason="missing"/>
                     <gmd:contactInfo>
@@ -186,32 +201,6 @@
                     <gmd:role>
                         <gmd:CI_RoleCode
                             codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
-                    </gmd:role>
-                </gmd:CI_ResponsibleParty>
-            </gmd:pointOfContact>
-            <gmd:pointOfContact>
-                <gmd:CI_ResponsibleParty>
-                    <gmd:individualName>
-                        <gco:CharacterString>Christine Weidinmyer</gco:CharacterString>
-                    </gmd:individualName>
-                    <gmd:organisationName>
-                        <gco:CharacterString>CU/CIRES/NOAA</gco:CharacterString>
-                    </gmd:organisationName>
-                    <gmd:positionName gco:nilReason="missing"/>
-                    <gmd:contactInfo>
-                        <gmd:CI_Contact>
-                            <gmd:address>
-                                <gmd:CI_Address>
-                                    <gmd:electronicMailAddress>
-                                    <gco:CharacterString>christine.wiedinmyer@colorado.edu</gco:CharacterString>
-                                    </gmd:electronicMailAddress>
-                                </gmd:CI_Address>
-                            </gmd:address>
-                        </gmd:CI_Contact>
-                    </gmd:contactInfo>
-                    <gmd:role>
-                        <gmd:CI_RoleCode
-                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
@@ -269,7 +258,7 @@
                 <gmd:MD_Keywords>
                     <gmd:keyword>
                         <gco:CharacterString>EARTH SCIENCE &gt; ATMOSPHERE &gt; AIR QUALITY &gt; EMISSIONS
-                                    open burning emissions</gco:CharacterString>
+                                            open burning emissions</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:thesaurusName>
                         <gmd:CI_Citation>
@@ -308,8 +297,8 @@
                 <gmd:MD_LegalConstraints>
                     <gmd:useLimitation>
                         <gco:CharacterString>Standard NCAR/UCAR policy and reference Weidinmyer et al., Geoscientific Model Development, 2011 shown below.
-          
-          Wiedinmyer, C., S. K. Akagi, R. J. Yokelson, L. K. Emmons, J. A. Al-Saadi, J. J. Orlando, and A. J. Soja. "The Fire Inventory from Ncar (Finn): A High Resolution Global Model to Estimate the Emissions from Open Burning." Geoscientific Model Development 4, no. 3 (2011): 625-41. (http://www.geosci-model-dev.net/4/625/2011/gmd-4-625-2011.html)</gco:CharacterString>
+                  
+                  Wiedinmyer, C., S. K. Akagi, R. J. Yokelson, L. K. Emmons, J. A. Al-Saadi, J. J. Orlando, and A. J. Soja. "The Fire Inventory from Ncar (Finn): A High Resolution Global Model to Estimate the Emissions from Open Burning." Geoscientific Model Development 4, no. 3 (2011): 625-41. (http://www.geosci-model-dev.net/4/625/2011/gmd-4-625-2011.html)</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>Name and contact information need to be submitted prior to downloading the data files.</gco:CharacterString>
