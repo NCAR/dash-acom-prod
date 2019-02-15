@@ -172,11 +172,9 @@
             <gmd:abstract>
                 <gco:CharacterString>High spectral resolution infrared Fourier-transform spectrometers are used to retrieve long-term key atmospheric compounds and evaluate their spatial and temporal variability at Mauna Loa, Hawaii, and at Thule, Greenland as part of the Infrared Working Group (IRWG) of the Network for the Detection of Atmospheric Composition Change (NDACC) and in Boulder, CO.
               
-The geographic bounding box information associated with this dataset are:
-Mauna Loa: 19.54N, 155.57W; Thule: 76.53N, 68.74W; Boulder: 40.04N, 105.24W
+The geographic bounding box information associated with this dataset are: Mauna Loa: 19.54N, 155.57W; Thule: 76.53N, 68.74W; Boulder: 40.04N, 105.24W
               
-The temporal information related to this dataset are:
-Mauna Loa: 1995-08-25 12:00:00-present; Thule: 1999-10-10 12:00:00 - present; Boulder: 2010-01-08 12:00:00-present</gco:CharacterString>
+The temporal information related to this dataset are: Mauna Loa: 1995-08-25 12:00:00-present; Thule: 1999-10-10 12:00:00 - present; Boulder: 2010-01-08 12:00:00-present</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>Ivan Ortega, NCAR, Co-PI</gco:CharacterString>
