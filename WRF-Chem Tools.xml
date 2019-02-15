@@ -61,7 +61,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2019-02-14T17:12:30</gco:DateTime>
+        <gco:DateTime>2019-02-14T17:36:30</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -142,7 +142,11 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>NCAR has developed two chemical options in WRF-Chem (MOZART trace gases with GOCART aerosol scheme, and MOZART trace gases with MOSAIC aerosol scheme). Information on these chemical options and on tools for using global model output for initial and boundary conditions, creating emissions files from MEGAN biogenic, FINN fire, and global anthropogenic emissions are made available through this site.</gco:CharacterString>
+                <gco:CharacterString>NCAR has developed two chemical options in WRF-Chem (MOZART trace gases with GOCART aerosol scheme, and MOZART trace gases with MOSAIC aerosol scheme). Information on these chemical options and on tools for using global model output for initial and boundary conditions, creating emissions files from MEGAN biogenic, FINN fire, and global anthropogenic emissions are made available through this site.
+
+The home page of the WRF-Chem Tools is: https://www2.acom.ucar.edu/wrf-chem/wrf-chem-tools-community              
+                
+                </gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode
