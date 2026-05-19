@@ -100,8 +100,8 @@
                     </gmd:date>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>James Hannigan</gco:CharacterString>
+                           <gmd:individualName>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-4269-1677" xlink:title="James Hannigan" xlink:actuate="onRequest">Hannigan, James</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR</gco:CharacterString>
