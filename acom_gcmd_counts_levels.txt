@@ -1,0 +1,26 @@
+earth science > atmosphere > atmospheric chemistry Count: 1 Level 3
+
+earth science > atmosphere > air quality > tropospheric ozone Count: 1 Level 4
+
+earth science > atmosphere > air quality > emissions Count: 1 Level 4
+
+open burning emissions Count: 1 Level 1
+
+earth science > atmosphere > air quality > carbon monoxide Count: 1 Level 4
+
+earth science > atmosphere > atmospheric chemistry > carbon and hydrocarbon compounds > carbon monoxide Count: 1 Level 5
+
+mopitt > measurements of pollution in the troposphere Count: 1 Level 2
+
+terra > earth observing system, terra (am-1) Count: 1 Level 2
+
+no keywords Count: 1 Level 1
+
+wrf > wrf (weather research and forecasting) modeling Count: 1 Level 2
+
+Level 1: 2
+Level 2: 3
+Level 3: 1
+Level 4: 3
+Level 5: 1
+Level 6: 0
